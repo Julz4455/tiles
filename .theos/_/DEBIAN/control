@@ -1,0 +1,10 @@
+Package: com.daydream.tiles
+Name: Tiles
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Daydream
+Author: Daydream
+Section: Tweaks
+Version: 0.0.1-40+debug
+Installed-Size: 76
